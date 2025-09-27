@@ -205,3 +205,58 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Research-specific ignores
+# Experimental results and logs
+results/logs/*.log
+results/figures/*.png
+results/figures/*.jpg
+results/figures/*.pdf
+results/figures/*.svg
+
+# Large datasets (keep structure but ignore data files)
+data/real/*.csv
+data/real/*.h5
+data/real/*.hdf5
+data/real/*.npz
+data/real/*.pkl
+data/synthetic/*.csv
+data/synthetic/*.h5
+data/synthetic/*.hdf5
+data/synthetic/*.npz
+data/synthetic/*.pkl
+
+# Model checkpoints and weights
+*.pth
+*.h5
+*.hdf5
+models/
+checkpoints/
+saved_models/
+
+# Tensorboard logs
+runs/
+logs/
+tb_logs/
+
+# Weights & Biases
+wandb/
+
+# Temporary simulation files
+*.tmp
+temp_*
+simulation_*.pkl
+
+# Research paper drafts (if stored locally)
+docs/paper/*.docx
+docs/paper/*.pdf
+docs/paper/*.tex.bak
+
+# IDE and editor specific
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific
+.DS_Store
+Thumbs.db
