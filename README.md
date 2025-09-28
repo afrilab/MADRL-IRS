@@ -359,13 +359,6 @@ fl-irs-madrl-6g/
     └── logs/                     # Simulation logs
 ```
 
-## 📄 Research Paper
-
-This implementation is based on the research paper:
-
-**"Federated Learning with Intelligent Reflecting Surface and Multi-Agent Deep Reinforcement Learning for 6G Green IoT Networks"**
-
-*Presented at IEEE PIMRC 2024*
 
 ### Abstract
 
@@ -390,25 +383,6 @@ The implementation demonstrates significant improvements in:
 
 If you use this code in your research, please cite our paper:
 
-```bibtex
-@inproceedings{fl_irs_madrl_2024,
-    title={Federated Learning with Intelligent Reflecting Surface and Multi-Agent Deep Reinforcement Learning for 6G Green IoT Networks},
-    author={Research Team},
-    booktitle={IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)},
-    year={2024},
-    pages={1--6},
-    doi={10.1109/PIMRC.2024.XXXXXXX},
-    organization={IEEE}
-}
-```
-
-### Alternative Citation Formats
-
-**APA Style:**
-Research Team. (2024). Federated Learning with Intelligent Reflecting Surface and Multi-Agent Deep Reinforcement Learning for 6G Green IoT Networks. In *IEEE PIMRC 2024* (pp. 1-6). IEEE.
-
-**IEEE Style:**
-Research Team, "Federated Learning with Intelligent Reflecting Surface and Multi-Agent Deep Reinforcement Learning for 6G Green IoT Networks," in *IEEE PIMRC 2024*, 2024, pp. 1-6.
 
 ## 🤝 Contributing
 
@@ -440,7 +414,6 @@ Please use the [GitHub Issues](https://github.com/research-team/fl-irs-madrl-6g/
 
 For questions about the implementation or research:
 
-- **Email**: research@example.com
 - **Issues**: [GitHub Issues](https://github.com/research-team/fl-irs-madrl-6g/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/research-team/fl-irs-madrl-6g/discussions)
 
@@ -450,9 +423,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- IEEE PIMRC 2024 for accepting our research paper
 - The open-source community for providing excellent tools and libraries
-- Research collaborators and reviewers for their valuable feedback
 
 ---
 
